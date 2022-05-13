@@ -432,6 +432,9 @@ header .navbar a:hover{
 .footer .credit span{
   color:#886BFD;
 }
+@media(max-width:900px){
+  .Namaste{transform:rotate(0deg)};
+}
 
 
 
